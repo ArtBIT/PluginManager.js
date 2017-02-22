@@ -66,4 +66,4 @@ You can see it in work by clicking this link: http://jsfiddle.net/ArtBIT/pogr38n
 
 ## License
 
-See [LICENSE][LICENSE] file.
+See (LICENSE)[LICENSE] file.
